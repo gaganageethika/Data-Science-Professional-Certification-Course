@@ -5,14 +5,14 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)  
 ![Tools Used](https://img.shields.io/badge/Tools-Pandas%20%7C%20Scikit--Learn%20%7C%20Dash%20%7C%20Folium%20%7C%20Plotly-orange)
 
-## **Project Overview 📊**
+## **Project Overview**
 
 This repository showcases the **SpaceX Falcon9 First Stage Landing Prediction** project, which was developed as part of the **IBM Data Science Professional Certification Course**.  
 The objective of this project is to **predict the successful landing** of Falcon9 first-stage boosters using historical launch data. This prediction helps SpaceX reduce costs by determining reusability.
 
 ---
 
-## **Project Objectives 🎯**
+## **Project Objectives**
 
 1. **Data Collection**: Retrieve launch data using APIs and web scraping.
 2. **Data Preprocessing**: Clean and wrangle the collected data.
@@ -22,7 +22,7 @@ The objective of this project is to **predict the successful landing** of Falcon
 
 ---
 
-## **Table of Contents 🗂️**
+## **Table of Contents**
 
 - [Key Features](#key-features-)
 - [Dataset Description](#dataset-description-)
@@ -38,7 +38,7 @@ The objective of this project is to **predict the successful landing** of Falcon
 
 ---
 
-## **Key Features 🧩**
+## **Key Features**
 
 - **API and Web Scraping**: 
    - Used **BeautifulSoup** to collect data from websites.
@@ -59,7 +59,7 @@ The objective of this project is to **predict the successful landing** of Falcon
 
 ---
 
-## **Dataset Description 📋**
+## **Dataset Description**
 
 The dataset consists of information about various SpaceX launches, including:  
 - Launch site details  
@@ -73,7 +73,7 @@ The data was collected from public APIs and web scraping (Wikipedia/SpaceX).
 
 ---
 
-## **Technologies Used 🛠️**
+## **Technologies Used**
 
 The following tools and libraries were used for this project:
 
@@ -87,7 +87,7 @@ The following tools and libraries were used for this project:
 
 ---
 
-## **Project Workflow 🧵**
+## **Project Workflow**
 
 1. **Data Collection**:  
    - Used APIs and web scraping to gather historical SpaceX launch data.
@@ -109,7 +109,7 @@ The following tools and libraries were used for this project:
 
 ---
 
-## **Installation Guide 💻**
+## **Installation Guide**
 
 Follow these steps to set up and run the project locally:
 
@@ -202,7 +202,7 @@ Key outcomes include:
 
 ---
 
-## **Project Files 📂**
+## **Project Files**
 
 The repository contains the following key files:
 
@@ -226,7 +226,7 @@ The repository contains the following key files:
 
 ---
 
-## **How to Contribute 🤝**
+## **How to Contribute**
 
 Contributions are welcome! To contribute:
 
@@ -247,7 +247,7 @@ Contributions are welcome! To contribute:
 
 ---
 
-## **License 📚**
+## **License**
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project, provided that appropriate credit is given.
 
